@@ -1,3 +1,4 @@
+7rud7eueur
 ---
 manufacturer:
     - general
